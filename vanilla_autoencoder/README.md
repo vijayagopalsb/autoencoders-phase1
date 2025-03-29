@@ -1,5 +1,8 @@
 # Vanilla Autoencoder for MNIST Reconstruction
 
+**Keywords**: Deep Learning, Autoencoder, MNIST, TensorFlow, Dimensionality Reduction  
+**Description**: A TensorFlow implementation of vanilla autoencoder for MNIST digit reconstruction with 32D latent space.
+
 ## Project Overview
 A simple autoencoder implementation that compresses and reconstructs handwritten digits from the MNIST dataset. The model learns efficient latent representations through a bottleneck architecture.
 
