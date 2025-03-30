@@ -62,7 +62,7 @@ def plot_results(model, test_images, n=10):
 
     plt.savefig('reconstructions.png', bbox_inches='tight', dpi=300)
     plt.close()  # Prevents memory leaks
-    logger.info("[WSL NOTE] Plot saved to 'reconstructions.png' (use an image viewer)")
+    logger.info("[WSL NOTE] Plot saved to 'reconstructions.png'")
 
 
 

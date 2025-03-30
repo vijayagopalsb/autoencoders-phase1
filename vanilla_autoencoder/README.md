@@ -1,3 +1,5 @@
+[Back Home](../README.md)
+
 # Vanilla Autoencoder for MNIST Reconstruction
 
 **Keywords**: Deep Learning, Autoencoder, MNIST, TensorFlow, Dimensionality Reduction  
